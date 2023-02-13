@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@fast-csv/format": "^4.3.5",
     "autocannon": "^7.10.0",
+    "dayjs": "^1.11.7",
+    "exceljs": "^4.3.0",
     "ora-classic": "^5.4.2"
   }
 }
